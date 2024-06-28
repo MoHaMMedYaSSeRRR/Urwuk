@@ -289,7 +289,8 @@ p {
         padding: 4px 10px;
     }
     .download {
-        height: 40vh !important;
+        height: 45vh !important;
+        padding: 0 !important;
     }
     .download h2{
         width: 100%;
