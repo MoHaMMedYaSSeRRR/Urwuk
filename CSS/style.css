@@ -177,6 +177,7 @@ p {
         top: 7px;
     }
     .content .buttons {
+       margin-bottom: 20px !important;
         justify-content: center !important;
     }
 }
