@@ -298,6 +298,8 @@ p {
     }
     .download .buttons{
         flex-direction: column !important;
+        align-items: center;
+        justify-content: center;
     }
     
 
