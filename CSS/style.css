@@ -219,7 +219,6 @@ p {
     background-image: url('../img/download.png');
     background-size: cover;
     background-position: center;
-    overflow-x: hidden;
 }
 
 @media (max-width: 1200px) {
@@ -269,6 +268,7 @@ p {
     .download .btn {
         padding: 5px 12px;
     }
+    
 }
 
 @media (max-width: 576px) {
@@ -288,9 +288,12 @@ p {
         padding: 4px 10px;
     }
     .download {
-        padding: 0 !important;
-        
+        height: 40vh !important;
     }
+    .download h2{
+        font-size: 24px !important;
+    }
+    
 
 }
 @media (max-width: 575.98px) {
