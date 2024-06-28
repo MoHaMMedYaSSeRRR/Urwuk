@@ -218,6 +218,7 @@ p {
     background-image: url('../img/download.png');
     background-size: cover;
     background-position: center;
+    overflow-x: hidden;
 }
 
 @media (max-width: 1200px) {
@@ -287,6 +288,8 @@ p {
     }
     .download {
         padding: 0 !important;
+        height: 30vh !important;
+        
     }
 }
 @media (max-width: 575.98px) {
