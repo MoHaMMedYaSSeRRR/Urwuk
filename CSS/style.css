@@ -289,9 +289,9 @@ p {
     }
     .download {
         padding: 0 !important;
-        height: 30vh !important;
         
     }
+
 }
 @media (max-width: 575.98px) {
     .row.g-4 [class^="col-"] {
